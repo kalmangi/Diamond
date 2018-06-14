@@ -1,0 +1,9 @@
+.header {background-color: pink;}
+.h1 {text-align: center;}
+#grid-block{width: 500px;margin: 100px auto 0;}
+.square{float: left;width: 50px;border: 1px solid #000;height: 50px;font-size: 15px;
+padding: 6px;
+text-align: center;}
+.diamond {position: relative;}
+.diamond .glyphicon-star{position: absolute;top: 10px;left: 10px;}
+.hint{background-color: #d9d9d9;}
