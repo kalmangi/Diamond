@@ -1,4 +1,4 @@
-#Diamong Game:
+#Diamond Game:
 
 This project is used based on using component structure.
 1.The main home page is included inside layout folder.
